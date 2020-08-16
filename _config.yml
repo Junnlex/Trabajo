@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Introduccion a la ingenieria de software'
-description:	       'Facultad de ciencias matematicas y fisicas'
+title:		           'Introduccion a la ingenieria de software'      
+description:	       '         Facultad de ciencias matematicas y fisicas'
 author:              'Alcivar Alex'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
