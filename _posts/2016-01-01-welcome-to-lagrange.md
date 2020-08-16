@@ -4,7 +4,7 @@ title: "La Ingeniería de Software!"
 author: "Alcivar Alex"
 categories: journal
 tags: [documentation,sample]
-image: image1.jpg
+image: image1.jpg(https://micarrerauniversitaria.com/wp-content/uploads/2018/02/ent-software-businessman-ts-100539050-primary.idge_.jpg)
 ---
 
 La Ingeniería de Software es la rama de la ingeniería que estudia todo lo relacionado con la informática o sistemas de computación, con una orientación metódica, ordenada y cuantificable al incremento, ejecución y conservación del software. La economia de todos los paıses desarrollados es dependiente del software Actualmente cada vez más sistemas son controlados por software
@@ -13,7 +13,6 @@ para el desarrollo profesional de software.
 
 ## Getting Started
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
 ## Example Content
 
