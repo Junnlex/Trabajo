@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Ingeníera de Software!"
+title: "La Ingeniería de Software!"
 author: "Alcivar Alex"
 categories: journal
 tags: [documentation,sample]
