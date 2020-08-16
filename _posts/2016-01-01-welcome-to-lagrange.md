@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "La Ingenier´ıa de Software!"
+author: "Alcivar Alex"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+La Ingeniería de Software es la rama de la ingeniería que estudia todo lo relacionado con la informática o sistemas de computación, con una orientación metódica, ordenada y cuantificable al incremento, ejecución y conservación del software. La economia de todos los paıses desarrollados es dependiente del software Actualmente cada vez mas sistemas son controlados por software
+La Ingenieria de Software concierne a teorıas, metodos y herramientas
+para el desarrollo profesional de software
 
 ## Getting Started
 
