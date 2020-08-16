@@ -4,15 +4,23 @@ title: "La Ingeniería de Software!"
 author: "Alcivar Alex"
 categories: journal
 tags: [documentation,sample]
-image: image1.jpg(https://micarrerauniversitaria.com/wp-content/uploads/2018/02/ent-software-businessman-ts-100539050-primary.idge_.jpg)
+image: image1.jpg
 ---
 
 La Ingeniería de Software es la rama de la ingeniería que estudia todo lo relacionado con la informática o sistemas de computación, con una orientación metódica, ordenada y cuantificable al incremento, ejecución y conservación del software. La economia de todos los paıses desarrollados es dependiente del software Actualmente cada vez más sistemas son controlados por software
 La Ingenieria de Software concierne a teorıas, metodos y herramientas
 para el desarrollo profesional de software.
 
-## Getting Started
-
+## ¿Qué es un proceso de software?
+Un conjunto estructurado de actividades, cuya meta es el
+desarrollo o evolución de un software.
+Algunas actividades genéricas en todos los procesos de software son:
+1. Especificación, que debe hacer el software y cu´ales son sus
+especificaciones de desarrollo.
+2. Desarrollo, producción del sistema de software
+3. Validacion, verificar que el software cumple con lo solicitado por el
+cliente.
+4. Evolución, cambiar/adaptar el software a las nuevas demandas
 
 ## Example Content
 
