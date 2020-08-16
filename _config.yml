@@ -22,8 +22,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Introduccion a la ingenieria de software'
 description:	       'Facultad de ciencias matematicas y fisicas'
-                     'Universidad de Guayaquil'
-author:              'Alcivar Alex'
+                     ' Universidad de Guayaquil'
+author:              ' Alcivar Alex'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
