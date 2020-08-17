@@ -85,7 +85,7 @@ A pesar de las ventajas e inconvenientes de cada uno de ellos, todos
 tienen una serie de etapas/actividades en común: análisis, diseño,
 implementación, pruebas.
 
-###Tipos de sistemas software
+### Tipos de sistemas software
 
 Distintas clasificaciones para tipos de sistemas software:
 Sistemas de Información: orientados a la gestión de información en
