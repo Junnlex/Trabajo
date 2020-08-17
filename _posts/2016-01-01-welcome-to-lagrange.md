@@ -234,10 +234,15 @@ El Modelo de Madurez de Capacidades o CMM (Capability Maturity Model), es un mod
 El SEI es un centro de investigación y desarrollo patrocinado por el Departamento de Defensa de los Estados Unidos de América y gestionado por la Universidad Carnegie-Mellon. "CMM" es una marca registrada del SEI.
 A partir de noviembre de 1986 el SEI, a requerimiento del Gobierno Federal de los Estados Unidos de América (en particular del Departamento de Defensa, DoD), desarrolló una primera definición de un modelo de madurez de procesos en el desarrollo de software, que se publicó en septiembre de 1987. Este trabajo evolucionó al modelo CMM o SW-CMM (CMM for Software), cuya última versión (v1.1) se publicó en febrero de 1993.
 Este modelo establece un conjunto de prácticas o procesos clave agrupados en Áreas Clave de Proceso (KPA - Key Process Area). Para cada área de proceso define un conjunto de buenas prácticas que habrán de ser:
+
 •	Definidas en un procedimiento documentado
+
 •	Provistas (la organización) de los medios y formación necesarios
+
 •	Ejecutadas de un modo sistemático, universal y uniforme (institucionalizadas)
+
 •	Medidas
+
 •	Verificadas
 
 #### PMBOK
