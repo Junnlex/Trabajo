@@ -11,7 +11,7 @@ La Ingeniería de Software es la rama de la ingeniería que estudia todo lo rela
 La Ingenieria de Software concierne a teorıas, metodos y herramientas
 para el desarrollo profesional de software.
 
-## ¿Qué es un proceso de software?
+### ¿Qué es un proceso de software?
 
 Un conjunto estructurado de actividades, cuya meta es el
 desarrollo o evolución de un software.
@@ -23,7 +23,7 @@ especificaciones de desarrollo.
 cliente.
 4. Evolución, cambiar/adaptar el software a las nuevas demandas
 
-## ¿Cuáles son los retos de la Ingeniería de Software?
+### ¿Cuáles son los retos de la Ingeniería de Software?
 
 * Heterogeneidad: Desarrollar tecnicas para construir software que
 pueda hacer frente a plataformas y ambientes de ejecución
