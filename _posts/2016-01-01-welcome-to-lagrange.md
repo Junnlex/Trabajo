@@ -86,22 +86,24 @@ tienen una serie de etapas/actividades en común: análisis, diseño,
 implementación, pruebas.
 
 ### Tipos de sistemas software
-Distintas clasificaciones para tipos de sistemas software:
-#### Sistemas de Información: 
-Orientados a la gestión de información en empresas para tratar sus operaciones o servicios de negocio
-#### Sistemas empotrados: 
-Residentes en memoria para controlar sistemas hardware. Varían desde sistemas simples (ej. Reproductor de
+Distintas clasificaciones para tipos de sistemas software: 
+
+Sistemas de Información: Orientados a la gestión de información en empresas para tratar sus operaciones o servicios de negocio
+
+Sistemas empotrados: Residentes en memoria para controlar sistemas hardware. Varían desde sistemas simples (ej. Reproductor de
 CD) hasta sistemas complejos (ej. Maquinaria de una planta química)
-#### Software de ingeniería y científico: 
-Orientadas al cálculo
-#### Sistemas expertos: 
-Basados en técnicas de IA
-#### Sistemas de computación personal: 
-Para uso personal o negocio (juegos, procesamiento de texto, · · ·)
-#### Sistemas de tiempo real : 
-Monitorizar y analizar eventos
-#### Software de sistema: 
-Software para servir a otros programas (SO, compiladores. . . )
+
+Software de ingeniería y científico: Orientadas al cálculo 
+
+Sistemas expertos: Basados en técnicas de IA
+
+Sistemas de computación personal: Para uso personal o negocio (juegos, procesamiento de texto, · · ·)
+
+Sistemas de tiempo real : Monitorizar y analizar eventos
+
+
+Software de sistema: Software para servir a otros programas (SO, compiladores. . . )
+
 
 ### Proceso de software
 Otra perspectiva utilizada para determinar los elementos del proceso de
