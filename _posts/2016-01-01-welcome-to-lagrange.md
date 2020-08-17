@@ -89,22 +89,18 @@ implementación, pruebas.
 
 Distintas clasificaciones para tipos de sistemas software:
 #### Sistemas de Información: 
-orientados a la gestión de información en
-empresas para tratar sus operaciones o servicios de negocio
+orientados a la gestión de información en empresas para tratar sus operaciones o servicios de negocio
 #### Sistemas empotrados: 
-residentes en memoria para controlar
-sistemas hardware. Varían desde sistemas simples (ej. Reproductor de
+residentes en memoria para controlar sistemas hardware. Varían desde sistemas simples (ej. Reproductor de
 CD) hasta sistemas complejos (ej. Maquinaria de una planta química)
 #### Software de ingeniería y científico: 
 orientadas al cálculo
 #### Sistemas expertos: 
 basados en técnicas de IA
 #### Sistemas de computación personal: 
-para uso personal o negocio
-(juegos, procesamiento de texto, · · ·)
+para uso personal o negocio (juegos, procesamiento de texto, · · ·)
 #### Sistemas de tiempo real : 
 monitorizar y analizar eventos
 #### Software de sistema: 
-software para servir a otros programas (SO,
-compiladores. . . )
+software para servir a otros programas (SO, compiladores. . . )
 
