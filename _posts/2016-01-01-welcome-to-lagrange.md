@@ -224,9 +224,13 @@ CMMI (Capability Maturity Model Integration) es un modelo creado para poder visu
 Los niveles de madurez se muestran en la siguiente imagen:
 
 Nivel 1: No se tienen procesos definidos
+
 Nivel 2: Metodologías y procesos para dar seguimiento a proyectos, aplicar costos, actividades por realizar y obtener funcionalidad.
+
 Nivel 3: Se adaptan actividades de administración de ingeniería en forma documentada y estandarizada
+
 Nivel 4: Los proyectos ya son controlados por medio de métricas, y su control ya es legítimo y confiable.
+
 Nivel 5: La mejora continua de sus procesos mediante la comparación con sistemas ya elaborados anteriormente, Cada vez se obtienen más técnicas para el mejor desarrollo de software.
 
 #### CMM
