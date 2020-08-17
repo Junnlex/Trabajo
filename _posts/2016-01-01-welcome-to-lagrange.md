@@ -67,4 +67,18 @@ La dificultad depende del tama˜no
 Los problemas de organizaci´on y gesti´on son tan complicados como los
 problemas tecnicos
 
-
+### Ingeniería del Software
+La IS es algo más que programar
+El proceso de la IS empieza mucho antes de escribir líneas de código y
+continua después de que la primera versión del producto haya sido
+completada
+Las etapas por las que atraviesa un producto software a lo largo de su
+existencia se denomina Ciclo de Vida
+Se han propuesto varios paradigmas diferentes:
+* Paradigma clasico o en cascada
+* Paradigma clasico con prototipado
+* Paradigma ágil
+* Paradigma en espiral
+A pesar de las ventajas e inconvenientes de cada uno de ellos, todos
+tienen una serie de etapas/actividades en común: análisis, diseño,
+implementación, pruebas.
