@@ -162,10 +162,15 @@ Los métodos ágiles enfatizan las comunicaciones cara a cara en vez de la docum
 Las metodologías ágiles mejoran la satisfacción del cliente dado que se involucrará y comprometerá a lo largo de todo el proyecto. En cada etapa se informará al cliente de los logros y progresos del mismo, con la visión de involucrarlo directamente para sumar su experiencia y conocimiento, y así, optimizar las características del producto final obteniendo en todo momento una visión completa de su estado.
 #### Modelo orientado a objetos
 La popularidad de las tecnologías orientadas a objetos ha generado varios métodos de AOO desde finales de los 80 y durante los 90. Cada uno de ellos introduce un proceso para el análisis y diseño de un producto o sistema, un conjunto de modelos que evoluciona fuera del proceso y una notación que posibilita al ingeniero del software crear cada modelo de una manera consistente. Entre los más ampliamente utilizados se encuentran:
+
 •	El método de Booch.
+
 •	El método de Rumbaugh.
+
 •	El método Jacobson
+
 •	El método de Coad y Yourdon.
+
 •	El método de Wirfs-Brock.
 
 #### Modelo en Espiral
