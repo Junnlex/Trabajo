@@ -107,15 +107,18 @@ Software para servir a otros programas (SO, compiladores. . . )
 Otra perspectiva utilizada para determinar los elementos del proceso de
 desarrollo de software es establecer las relaciones entre elementos que
 permitan responder quién debe hacer qué, cuándo y cómo debe hacerlo
-#### Quién: 
+Quién: 
+
 Las personas participantes en el proyecto de desarrollo
 desempeñan uno o más roles específicos.
-#### Qué: 
+Qué: 
+
 Un artefacto es producido por un rol en una de sus actividades.
 Los artefactos se especifican utilizando notaciones específicas. Las
 herramientas apoyan la elaboración de artefactos soportando ciertas
 notaciones.
-#### Cómo y Cuándo: 
+Cómo y Cuándo: 
+
 Las Actividades son una serie de pasos que lleva a
 cabo un rol durante el proceso de desarrollo. El avance del proyecto
 esta controlado mediante hitos que establecen un determinado estado
