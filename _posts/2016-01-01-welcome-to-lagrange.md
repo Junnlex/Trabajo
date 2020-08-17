@@ -60,11 +60,11 @@ Desarrollar software es como construir un edificio: hay mucho que hacer
 antes del “verdadero” trabajo 
 Planificar minuciosamente
 Elegir materiales
-Establecer y respetar una temporizaci´on
+Establecer y respetar una temporización
 Inspeccionar frecuentemente la obra
 Los errores son muy costosos de reparar
-La dificultad depende del tama˜no
-Los problemas de organizaci´on y gesti´on son tan complicados como los
+La dificultad depende del tamaño
+Los problemas de organización y gestión son tan complicados como los
 problemas tecnicos
 
 ### Ingeniería del Software
@@ -80,6 +80,7 @@ Se han propuesto varios paradigmas diferentes:
 * Paradigma clasico con prototipado
 * Paradigma ágil
 * Paradigma en espiral
+
 A pesar de las ventajas e inconvenientes de cada uno de ellos, todos
 tienen una serie de etapas/actividades en común: análisis, diseño,
 implementación, pruebas.
