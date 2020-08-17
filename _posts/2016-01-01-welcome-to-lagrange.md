@@ -186,6 +186,71 @@ Podemos definirla como el empleo de elementos de software u otros de nivel super
 
 La denominación métodos formales se usa para referirse a cualquier actividad relacionada con representaciones matemáticas del software, incluyendo la especificación formal de sistemas, análisis y demostración de la especificación, el desarrollo transformacional y la verificación de programas. Todas estas actividades dependen de una especificación formal del software.
 Una especificación formal del software es una especificación expresada en un lenguaje cuyo vocabulario, sintaxis y semántica están formalmente definidos. Esta necesidad de una definición formal significa que los lenguajes de especificación deben basarse en conceptos matemáticos cuyas propiedades se comprendan bien. La rama de las matemáticas usada es la de matemática discreta, y los conceptos matemáticos provienen de la teoría de conjuntos, la lógica y el álgebra.
+### Estándares relacionados con el proceso software: IEEE/EIA (ISO/IEC) 12207, SWEBOK, CMMI, PMBOK
+
+#### ISO/IEC 12207
+ISO/IEC 12207 - Information Technology / Software Life Cycle Processes es el estándar para los procesos de ciclo de vida del software de la organización ISO. Siendo el proceso un conjunto de tareas, y un conjunto de pasos que involucran actividades, restricciones y recursos, produciendo una salida determinada, es decir un proceso es un conjunto de actividades y tareas que están relacionadas, y al ejecutarse conjuntamente transforman una entrada en una salida.
+Factores para Aplicar el Estándar ISO/IEC 12207
+Además de las recomendaciones 4 anteriores, para la aplicación del Estándar también se tienen que tener en cuenta entre otros, los siguientes aspectos:
+Ciclo de Vida del Sistema: en general un Ciclo de Vida, cubre las fases de Requisitos, Análisis, Diseño, Documentación y Prueba.
+Tipo de software: el tipo de Software del proyecto debe de ser determinado, como nuevo software, firmware, reutilización de uno existente, software embebido, software independiente, etc.
+Rol en el Ciclo de Vida: el usuario dentro del estándar se debe determinar si es un comprador, un proveedor, un desarrollador, un operador o un mantenedor.
+Modelo de Desarrollo: dentro del proyecto se debe de identificar uno o más modelos de Desarrollo, como: Cascada, Incremental, Evolutivo, Reingeniería o esprial.
+Características del proyecto: los requerimientos y especificaciones del producto o servicio dominan la determinación y selección de procesos, actividades y tareas.
+Políticas organizacionales: las políticas organizacionales involucradas deben de ser identificadas y analizadas para poder determinar la relevancia del proyecto. Se deben de identificar y analizar las leyes nacionales y reglamentos de seguridad pública, la salud y el medio ambiente entre otros, que son aplicables en cualquier caso.
+Documentación: el estándar ISO/IEC 12207 proporciona resultados de las actividades y tareas. Se va a determinar qué resultados son necesarios, como deben de ser combinados, empaquetados y distribuidos. Se debe de asegurar que la operación y el soporte personal están involucrados en la determinación de la documentación necesaria.
+Evaluación: el estándar ISO/IEC 12207 incluye varios procesos y tareas que se basan en evaluaciones, estas se llevan a cabo dentro de un proceso o entre procesos.
+Cláusulas: se deben controlar las cláusulas relacionadas con la ingeniería, en las que el usuario debe de actuar con precaución y juicio técnico, influyendo en la documentación; las relacionada con la gestión, están cubiertas por la ejecución y las actividades de control y garantía tanto de verificación como de validación; y las cláusulas de documentación, el alcance y la extensión de la documentación va a depender principalmente del tamaño, la diversidad, la vida del software y la necesidades de los usuarios.
+#### SWEBOK
+Este tipo de estándares son producidos por una institución del gobierno o, como ocurre en este caso, por una organización internacional reconocida como es ISO (International Organization for Standarization). Para la creación del estándar, el grupo encargado de la estandarización (en este caso la organización ISO) debe seguir un proceso abierto que permite a todos participar para llegar al consenso.
+Este estándar se desarrolla con respecto a las normas internacionales que se redactan de acuerdo con las reglas establecidas en las Directivas ISO/IEC. La principal tarea del comité técnico conjunto es preparar normas internacionales.
+SWEBOK (Software Engineering Body Of Knowledge) referencia al Cuerpo de Conocimiento de un campo tan complejo como es la Ingeniería del Software, es decir, a la descripción jerárquica del conocimiento de esta área estructurado en dos niveles de jerarquía: áreas de conocimiento y componentes de conocimiento. Es un compendio de las mejores prácticas de este campo de la ingeniería con la finalidad de que sirvan como referencia a la hora del desarrollo de nuevos proyectos.
+
+La idea de este desarrollo surgió basándose en que la Ingeniería del Software es una disciplina que poco o nada se parece a otras en la ciencia, por lo que es necesario definir un estándar o una guía para la mejora del proceso de creación de software. A diferencia de otros productos, el software se desarrolla, no se fabrica como cualquier otro objeto a partir de una materia prima, con un proceso de elaboración, etc., sino que es un producto de labores de ingeniería como análisis de requisitos, diseño, control de calidad,...
+
+Las Áreas de Conocimiento en que se divide el SWEBOK son:
+Requerimientos de Software: Un requerimiento es definido como una propiedad que debe ser exhibida para resolver algún problema del mundo real.
+Diseño de Software: Es una fase que abarca todo el ciclo de vida de un producto software, pues se trata de la administración de los cambios, así como el mantenimiento de los requisitos, de tal forma que se refleje lo que en realidad el ítem final va a ser.
+Construcción de Software: Implementación de un producto que sea funcional a través de la combinación de codificación, validación y pruebas unitarias.
+Pruebas de Software: Verificación dinámica del comportamiento de un programa, sobre un conjunto finito de casos de prueba.
+Mantenimiento de Software: Mejoras a implementar en el software una vez que está operativo, producto de anomalías, cambios en el ambiente operativo, nuevos requisitos, etc.
+Gestión de la Configuración de Software: Proceso de control de los cambios en el producto, con el fin de mantener la integridad en el ciclo de vida del mismo.
+Gestión de la Ingeniería del Software: Administración de ciertos procesos complejos como la gestión de la organización, de los proyectos y de las métricas del software.
+Procesos de Ingeniería del Software: Definición, implementación, medida y cambio de los procesos de ingeniería del software.
+Métodos y herramientas de la Ingeniería del Software: Control del ambiente y métodos de desarrollo del software.
+Calidad de Software: Consideraciones de calidad que trascienden los procesos del ciclo de vida.
+#### CMMI
+CMMI (Capability Maturity Model Integration) es un modelo creado para poder visualizar y entender en qué estado de madurez esta la empresa a la que se está aplicando este modelo. Es decir que si evalúa una empresa con este modelo podemos saber qué nivel de madurez tiene la empresa y se podrá saber si es posible llegar a obtener un modelo de madurez más alto. Cada nivel de madurez tiene características importantes que si se llegan a obtener es más fácil que la empresa obtenga mayor eficiencia y obtener nuevos componentes al momento de desarrollar nuevos productos de software y se obtiene un incremento en la capacidad de proceso de la organización.
+Los niveles de madurez se muestran en la siguiente imagen:
+
+Nivel 1: No se tienen procesos definidos
+Nivel 2: Metodologías y procesos para dar seguimiento a proyectos, aplicar costos, actividades por realizar y obtener funcionalidad.
+Nivel 3: Se adaptan actividades de administración de ingeniería en forma documentada y estandarizada
+Nivel 4: Los proyectos ya son controlados por medio de métricas, y su control ya es legítimo y confiable.
+Nivel 5: La mejora continua de sus procesos mediante la comparación con sistemas ya elaborados anteriormente, Cada vez se obtienen más técnicas para el mejor desarrollo de software.
+
+#### CMM
+El Modelo de Madurez de Capacidades o CMM (Capability Maturity Model), es un modelo de evaluación de los procesos de una organización. Fue desarrollado inicialmente para los procesos relativos al desarrollo e implementación de software por la Universidad Carnegie-Mellon para el Software Engineering Institute (SEI).
+El SEI es un centro de investigación y desarrollo patrocinado por el Departamento de Defensa de los Estados Unidos de América y gestionado por la Universidad Carnegie-Mellon. "CMM" es una marca registrada del SEI.
+A partir de noviembre de 1986 el SEI, a requerimiento del Gobierno Federal de los Estados Unidos de América (en particular del Departamento de Defensa, DoD), desarrolló una primera definición de un modelo de madurez de procesos en el desarrollo de software, que se publicó en septiembre de 1987. Este trabajo evolucionó al modelo CMM o SW-CMM (CMM for Software), cuya última versión (v1.1) se publicó en febrero de 1993.
+Este modelo establece un conjunto de prácticas o procesos clave agrupados en Áreas Clave de Proceso (KPA - Key Process Area). Para cada área de proceso define un conjunto de buenas prácticas que habrán de ser:
+•	Definidas en un procedimiento documentado
+•	Provistas (la organización) de los medios y formación necesarios
+•	Ejecutadas de un modo sistemático, universal y uniforme (institucionalizadas)
+•	Medidas
+•	Verificadas
+
+#### PMBOK
+Project Management Body of Knowledge, Como su nombre lo sugiere describe un conjunto de conocimientos y de prácticas aplicables a cualquier situación que requiera formular, las cuales han sido concebidas luego de evaluación y consenso entre profesionales pares sobre su valor y utilidad.
+El PMBOK documenta la información necesaria para iniciar, planificar, ejecutar, supervisar y controlar, y cerrar un proyecto individual, e identifica los procesos de la dirección de proyectos que han sido reconocidos como buenas prácticas para la mayoría de los proyectos, la mayor parte del tiempo.
+El PMBOK no debe entenderse como una metodología per se, sino como una guía de estándares internacionales para que los profesionales puedan adaptar a cada caso y contexto particular los procesos, reconocidos como buenas prácticas por el PMI que se pueden aplicar a la mayoría de los proyectos en la mayoría de los casos.
+La importancia del PMBOK es que provee un marco de referencia formal para desarrollar proyectos, guiando y orientando a los gerentes de proyectos sobre la forma de avanzar en los procesos y pasos necesarios para la construcción de resultados y alcanzar los objetivos. Esto, por supuesto, requiere la adaptación de los contenidos del PMBOK al dominio técnico y la especificidad de cada proyecto en particular.
+En 1969 Project Management Institute (PMI) es fundado con el objetivo de documentar y estandarizar la información y las prácticas aceptadas en la gestión de proyectos por lo cual se crea la guia PMBOK (Project Management Body of Knowledge), que se ha convertido en el estándar actual en la gestión de proyectos.
+En 1975 la PMI describe sus objetivos tales como:
+1.	Promover el reconocimiento de la necesidad del profesional en la gestión de proyectos
+2.	Proporcionar un foro para el libre intercambio de los problemas de gestión de proyectos, soluciones y      aplicaciones.
+3.	Coordinar las investigaciones
+4.	Proporcionar la interfaz entre los usuarios y proveedores de sistemas de hardware y software.
 
 
 
