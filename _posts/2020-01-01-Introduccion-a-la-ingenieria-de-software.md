@@ -261,6 +261,9 @@ En 1975 la PMI describe sus objetivos tales como:
 3.	Coordinar las investigaciones
 4.	Proporcionar la interfaz entre los usuarios y proveedores de sistemas de hardware y software.
 
+#### Alcivar Hidalgo Alex
+##### Estudiante - Desarrollador 
+Mi nombre es Alex, soy estudiante de la carrera de software de la universidad de Guayaquil. Aprendí a programar mientras tomaba un curso de informática, He perseguido la programación como una pasión y como una carrera.
 
 
 
