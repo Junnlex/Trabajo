@@ -262,10 +262,10 @@ En 1975 la PMI describe sus objetivos tales como:
 2.	Proporcionar un foro para el libre intercambio de los problemas de gestión de proyectos, soluciones y      aplicaciones.
 3.	Coordinar las investigaciones.
 4.	Proporcionar la interfaz entre los usuarios y proveedores de sistemas de hardware y software.
-#### Autor
----
+
 image: image2.jpg
 ---
+#### Autor
 #### Alcivar Hidalgo Alex
 ##### Estudiante - Desarrollador 
 Mi nombre es Alex, soy estudiante de la carrera de software de la universidad de Guayaquil. Aprendí a programar mientras tomaba un curso de informática, He perseguido la programación como una pasión y como una carrera.
