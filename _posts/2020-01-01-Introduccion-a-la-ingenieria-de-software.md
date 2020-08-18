@@ -263,6 +263,7 @@ En 1975 la PMI describe sus objetivos tales como:
 3.	Coordinar las investigaciones
 4.	Proporcionar la interfaz entre los usuarios y proveedores de sistemas de hardware y software.
 #### Autor
+
 image: image2.jpg
 ---
 #### Alcivar Hidalgo Alex
