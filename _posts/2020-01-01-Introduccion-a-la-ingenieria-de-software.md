@@ -4,10 +4,10 @@ title: "La Ingeniería de Software!"
 author: "Alcivar Alex"
 categories: journal
 tags: [documentation,sample]
-referencia:https://dicomania.com/wp-content/uploads/2019/01/portada.jpg
+
 image: image1.jpg
 ---
-
+referencia:https://dicomania.com/wp-content/uploads/2019/01/portada.jpg
 La Ingeniería de Software es la rama de la ingeniería que estudia todo lo relacionado con la informática o sistemas de computación, con una orientación metódica, ordenada y cuantificable al incremento, ejecución y conservación del software. La economia de todos los paıses desarrollados es dependiente del software Actualmente cada vez más sistemas son controlados por software
 La Ingenieria de Software concierne a teorıas, metodos y herramientas
 para el desarrollo profesional de software.
