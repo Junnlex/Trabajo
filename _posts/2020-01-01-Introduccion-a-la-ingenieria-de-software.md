@@ -4,6 +4,7 @@ title: "La Ingeniería de Software!"
 author: "Alcivar Alex"
 categories: journal
 tags: [documentation,sample]
+referencia:https://dicomania.com/wp-content/uploads/2019/01/portada.jpg
 image: image1.jpg
 ---
 
