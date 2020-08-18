@@ -265,7 +265,7 @@ En 1975 la PMI describe sus objetivos tales como:
 
 ### Autor
 ![In a single picture](https://raw.githubusercontent.com/Junnlex/Trabajo/master/assets/img/image2.jpg)
-#### Alcivar Hidalgo Alex                                                                                                                 Estudiante - Desarrollador 
+#### Alcivar Hidalgo Alex                                                                                                                  Estudiante - Desarrollador 
 ¡Hola! Soy Alex, soy estudiante de la carrera de software de la universidad de Guayaquil. Aprendí a programar mientras tomaba un curso de informática, He perseguido la programación como una pasión y como una carrera.
 
 
