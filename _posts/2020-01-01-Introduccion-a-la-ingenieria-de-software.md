@@ -260,7 +260,7 @@ En 1969 Project Management Institute (PMI) es fundado con el objetivo de documen
 En 1975 la PMI describe sus objetivos tales como:
 1.	Promover el reconocimiento de la necesidad del profesional en la gestión de proyectos
 2.	Proporcionar un foro para el libre intercambio de los problemas de gestión de proyectos, soluciones y      aplicaciones.
-3.	Coordinar las investigaciones
+3.	Coordinar las investigaciones.
 4.	Proporcionar la interfaz entre los usuarios y proveedores de sistemas de hardware y software.
 #### Autor
 image: image2.jpg
