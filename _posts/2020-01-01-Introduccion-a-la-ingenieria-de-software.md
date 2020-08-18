@@ -265,6 +265,7 @@ En 1975 la PMI describe sus objetivos tales como:
 
 #### Autor
 image: image2.jpg
+(file:///C:/Users/SYSTEC/Pictures/image2.jpg)
 ---
 #### Alcivar Hidalgo Alex
 ##### Estudiante - Desarrollador 
